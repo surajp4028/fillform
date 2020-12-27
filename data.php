@@ -30,5 +30,5 @@
    else {
        echo "\nfailed to insert in database";
    }
-   header("refresh:10; url= nform.html");
+   header("refresh:10; url= index.html");
     ?>
